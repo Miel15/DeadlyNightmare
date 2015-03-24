@@ -3,7 +3,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorResources/S_Actor",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorResources/S_Actor.S_Actor",
@@ -31,7 +31,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorLandscapeResources/DataLayer",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorLandscapeResources/DataLayer.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorLandscapeResources/DataLayer.DataLayer",
@@ -50,7 +50,7 @@
 		{
 			"SourcePackageName": "/Engine/Maps/Templates/Thumbnails/Default",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Maps/Templates/Thumbnails/Default.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Maps/Templates/Thumbnails/Default.Default",
@@ -78,7 +78,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.PSysThumbnail_NoImage",
@@ -106,7 +106,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.PSysThumbnail_OOD",
@@ -134,7 +134,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental.DmgTypeBP_Environmental",
@@ -161,7 +161,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMeshes/Sphere",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Sphere.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMeshes/Sphere.Sphere",
@@ -186,7 +186,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineFonts/RobotoDistanceField",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/RobotoDistanceField.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField",
@@ -204,7 +204,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultTextMaterialOpaque.DefaultTextMaterialOpaque",
@@ -227,7 +227,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.PowerToRoughness",
@@ -250,7 +250,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec",
@@ -273,7 +273,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/WorldGridMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
@@ -296,7 +296,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade",
@@ -319,7 +319,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M",
@@ -347,7 +347,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N",
@@ -375,7 +375,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial",
@@ -398,7 +398,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultDiffuse",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse",
@@ -426,7 +426,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultLightFunctionMaterial.DefaultLightFunctionMaterial",
@@ -449,7 +449,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultPostProcessMaterial.DefaultPostProcessMaterial",
@@ -472,7 +472,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components",
@@ -495,7 +495,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorResources/S_Trigger",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Trigger.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorResources/S_Trigger.S_Trigger",
@@ -523,7 +523,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/WhiteSquareTexture",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture",
@@ -551,7 +551,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/GradientTexture0",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/GradientTexture0.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/GradientTexture0.GradientTexture0",
@@ -579,7 +579,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/Black",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/Black.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/Black.Black",
@@ -607,7 +607,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float.MAT_Groups_Float",
@@ -635,7 +635,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director.MAT_Groups_Director",
@@ -663,7 +663,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event.MAT_Groups_Event",
@@ -691,7 +691,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.01",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim.MAT_Groups_Anim",
@@ -719,7 +719,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade.MAT_Groups_Fade",
@@ -747,7 +747,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move.MAT_Groups_Move",
@@ -775,7 +775,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.MAT_Groups_Slomo",
@@ -803,7 +803,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack.MAT_ColorTrack",
@@ -831,7 +831,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Toggle",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Toggle.MAT_Groups_Toggle",
@@ -859,7 +859,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.MAT_Groups_AudioMaster",
@@ -887,7 +887,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound.MAT_Groups_Sound",
@@ -915,7 +915,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector.MAT_Groups_Vector",
@@ -943,7 +943,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Visibility",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Visibility.MAT_Groups_Visibility",
@@ -971,7 +971,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/DefaultTexture",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
@@ -999,7 +999,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/DefaultTextureCube",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTextureCube.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/DefaultTextureCube.DefaultTextureCube",
@@ -1024,7 +1024,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Master",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Master.Master",
@@ -1042,7 +1042,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Music",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Music.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Music.Music",
@@ -1060,7 +1060,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/SFX",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/SFX.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/SFX.SFX",
@@ -1078,7 +1078,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Normal_Attack",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Normal_Attack.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Normal_Attack.Normal_Attack",
@@ -1096,7 +1096,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Special_Attack_PSM",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Special_Attack_PSM.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Special_Attack_PSM.Special_Attack_PSM",
@@ -1114,7 +1114,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod.Duck_Normal_Attack_MixMod",
@@ -1133,7 +1133,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Voice",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Voice.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Voice.Voice",
@@ -1151,7 +1151,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMeshes/Cylinder",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Cylinder.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMeshes/Cylinder.Cylinder",
@@ -1176,7 +1176,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultMaterial.DefaultMaterial",
@@ -1199,7 +1199,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineTireTypes/DefaultTireType",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineTireTypes/DefaultTireType.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineTireTypes/DefaultTireType.DefaultTireType",
@@ -1217,7 +1217,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineFonts/Roboto",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineFonts/Roboto.Roboto",
@@ -1235,7 +1235,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent.Widget3DPassThrough_Translucent",
@@ -1255,7 +1255,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough",
@@ -1278,7 +1278,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.Widget3DPassThrough_Translucent_OneSided",
@@ -1298,7 +1298,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque.Widget3DPassThrough_Opaque",
@@ -1318,7 +1318,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.Widget3DPassThrough_Opaque_OneSided",
@@ -1338,7 +1338,7 @@
 		{
 			"SourcePackageName": "/Paper2D/MaskedUnlitSpriteMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/MaskedUnlitSpriteMaterial.MaskedUnlitSpriteMaterial",
@@ -1358,7 +1358,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DefaultSpriteMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial",
@@ -1381,7 +1381,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DummySpriteTexture",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DummySpriteTexture.DummySpriteTexture",
@@ -1409,7 +1409,7 @@
 		{
 			"SourcePackageName": "/Paper2D/OpaqueUnlitSpriteMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/OpaqueUnlitSpriteMaterial.OpaqueUnlitSpriteMaterial",
@@ -1429,7 +1429,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DefaultPaperTerrainMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DefaultPaperTerrainMaterial.DefaultPaperTerrainMaterial",
@@ -1447,7 +1447,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DummySprite",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DummySprite.DummySprite",
@@ -1469,7 +1469,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/RemoveSurfaceMaterial.RemoveSurfaceMaterial",
@@ -1492,7 +1492,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineDebugMaterials/DebugMeshMaterial.DebugMeshMaterial",
@@ -1515,7 +1515,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/M_InvalidLightmapSettings.M_InvalidLightmapSettings",
@@ -1538,7 +1538,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/InvalidLightmapSettings",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings",
@@ -1566,7 +1566,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/GizmoMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/GizmoMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/GizmoMaterial.GizmoMaterial",
@@ -1589,7 +1589,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq",
@@ -1617,7 +1617,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultBokeh",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultBokeh.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultBokeh.DefaultBokeh",
@@ -1645,7 +1645,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF",
@@ -1673,7 +1673,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/MiniFont",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/MiniFont.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/MiniFont.MiniFont",
@@ -1701,7 +1701,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture",
@@ -1729,7 +1729,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultWhiteGrid",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid",
@@ -1757,7 +1757,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.02",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultPhysicalMaterial.DefaultPhysicalMaterial",
@@ -1775,7 +1775,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineFonts/RobotoTiny",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/RobotoTiny.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.56",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.03",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineFonts/RobotoTiny.RobotoTiny",
@@ -1793,7 +1793,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb",
@@ -1822,7 +1822,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background",
@@ -1851,7 +1851,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter.T_Castle_ThumbstickOutter",
@@ -1880,7 +1880,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner.T_Castle_ThumbstickInner",
@@ -1909,7 +1909,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionStick",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionStick.MobileHUDDirectionStick",
@@ -1937,7 +1937,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3.MobileHUDDirectionPad3",
@@ -1965,7 +1965,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2.MobileHUDDirectionPad2",
@@ -1993,7 +1993,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad.MobileHUDDirectionPad",
@@ -2021,7 +2021,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButtonFire",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButtonFire.MobileHUDButtonFire",
@@ -2049,7 +2049,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton3",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton3.MobileHUDButton3",
@@ -2077,7 +2077,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_on",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_on.MobileHUDButton2_on",
@@ -2105,7 +2105,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_off",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_off.MobileHUDButton2_off",
@@ -2133,7 +2133,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_on",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_on.MobileHUDButton1_on",
@@ -2161,7 +2161,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_off",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_off.MobileHUDButton1_off",
@@ -2189,7 +2189,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly",
@@ -2207,7 +2207,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks",
@@ -2225,7 +2225,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/AnalogHat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/AnalogHat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat",
@@ -2253,7 +2253,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/T_MobileMenu2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileMenu2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/T_MobileMenu2.T_MobileMenu2",
@@ -2281,7 +2281,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/T_MobileControls_texture",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileControls_texture.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/T_MobileControls_texture.T_MobileControls_texture",
@@ -2309,7 +2309,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/MyGame",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/MyGame.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/MyGame.MyGame",
@@ -2344,7 +2344,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/MyCharacter",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/MyCharacter.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/MyCharacter.MyCharacter",
@@ -2364,7 +2364,7 @@
 						"BlueprintDescription": "The character you control in the game, includes firing logic",
 						"ClassFlags": "12845072",
 						"IsDataOnly": "False",
-						"SearchGuid": "B3BDCD4746060174DA28C79888E5B080"
+						"SearchGuid": "14B3790A42379DCA2542E786BA564DEF"
 					}
 				}
 			]
@@ -2372,7 +2372,7 @@
 		{
 			"SourcePackageName": "/Game/Character/HeroFPP_AnimBlueprint",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/HeroFPP_AnimBlueprint.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/HeroFPP_AnimBlueprint.HeroFPP_AnimBlueprint",
@@ -2408,7 +2408,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_Idle",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_Idle.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_Idle.FPP_Idle",
@@ -2434,7 +2434,7 @@
 		{
 			"SourcePackageName": "/Game/Character/HeroFPP_Skeleton",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/HeroFPP_Skeleton.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/HeroFPP_Skeleton.HeroFPP_Skeleton",
@@ -2453,7 +2453,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_JumpEnd",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_JumpEnd.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_JumpEnd.FPP_JumpEnd",
@@ -2476,7 +2476,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_JumpLoop",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_JumpLoop.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_JumpLoop.FPP_JumpLoop",
@@ -2502,7 +2502,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_JumpStart",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_JumpStart.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_JumpStart.FPP_JumpStart",
@@ -2525,7 +2525,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_Run",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_Run.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_Run.FPP_Run",
@@ -2551,7 +2551,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_Fire_Montage",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_Fire_Montage.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_Fire_Montage.FPP_Fire_Montage",
@@ -2571,7 +2571,7 @@
 		{
 			"SourcePackageName": "/Game/Animations/FPP_Fire",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Animations/FPP_Fire.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Animations/FPP_Fire.FPP_Fire",
@@ -2594,7 +2594,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/MyProjectile",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/MyProjectile.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/MyProjectile.MyProjectile",
@@ -2622,7 +2622,7 @@
 		{
 			"SourcePackageName": "/Game/Character/SM_Projectile",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/SM_Projectile.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/SM_Projectile.SM_Projectile",
@@ -2647,7 +2647,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/MI_Template_BaseOrange",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/MI_Template_BaseOrange.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/MI_Template_BaseOrange.MI_Template_BaseOrange",
@@ -2667,7 +2667,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/M_Template_Master",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/M_Template_Master.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/M_Template_Master.M_Template_Master",
@@ -2690,7 +2690,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/Other",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/Other.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/Other.Other",
@@ -2710,7 +2710,7 @@
 						"BlueprintDescription": "The character you control in the game, includes firing logic",
 						"ClassFlags": "12845072",
 						"IsDataOnly": "False",
-						"SearchGuid": "F62EF759469860A59C090D97BC401460"
+						"SearchGuid": "3C1A144F497598E016C7DD9BF8C20224"
 					}
 				}
 			]
@@ -2718,7 +2718,7 @@
 		{
 			"SourcePackageName": "/Game/Character/Monster_Uv",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/Monster_Uv.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/Monster_Uv.Monster_Uv",
@@ -2739,7 +2739,7 @@
 		{
 			"SourcePackageName": "/Game/Character/initialShadingGroup1",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/initialShadingGroup1.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/initialShadingGroup1.initialShadingGroup1",
@@ -2762,7 +2762,7 @@
 		{
 			"SourcePackageName": "/Game/Character/PequenoFur2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/PequenoFur2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/PequenoFur2.PequenoFur2",
@@ -2791,7 +2791,7 @@
 		{
 			"SourcePackageName": "/Game/Character/Monster_Uv_PhysicsAsset",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/Monster_Uv_PhysicsAsset.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/Monster_Uv_PhysicsAsset.Monster_Uv_PhysicsAsset",
@@ -2811,7 +2811,7 @@
 		{
 			"SourcePackageName": "/Game/Character/Monster_Uv_Skeleton",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/Monster_Uv_Skeleton.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/Monster_Uv_Skeleton.Monster_Uv_Skeleton",
@@ -2831,7 +2831,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Template1rst_WeaponFire02",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Audio/Template1rst_WeaponFire02.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Template1rst_WeaponFire02.Template1rst_WeaponFire02",
@@ -2856,7 +2856,7 @@
 		{
 			"SourcePackageName": "/Game/Character/HeroFPP",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/HeroFPP.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/HeroFPP.HeroFPP",
@@ -2877,7 +2877,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/MI_Template_BaseBlue",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/MI_Template_BaseBlue.MI_Template_BaseBlue",
@@ -2897,7 +2897,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/MyHUD",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/MyHUD.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.57",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/MyHUD.MyHUD",
@@ -2932,7 +2932,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/crosshair",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/crosshair.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/crosshair.crosshair",
@@ -2961,7 +2961,7 @@
 		{
 			"SourcePackageName": "/Engine/Maps/Entry",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/Maps/Entry.umap",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.04",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Maps/Entry.Entry",
@@ -2979,7 +2979,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultNormal",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultNormal.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.05",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal",
@@ -3008,7 +3008,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/TemplateCube_Rounded",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/TemplateCube_Rounded.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/TemplateCube_Rounded.TemplateCube_Rounded",
@@ -3031,28 +3031,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Meshes/TemplateCube_Rounded",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/TemplateCube_Rounded.uasset",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Meshes/TemplateCube_Rounded.TemplateCube_Rounded",
-					"PackageName": "/Game/Meshes/TemplateCube_Rounded",
-					"PackagePath": "/Game/Meshes",
-					"GroupNames": "None",
-					"AssetName": "TemplateCube_Rounded",
-					"AssetClass": "ObjectRedirector",
-					"TagsAndValues":
-					{
-						"DestinationObject": "StaticMesh'/Game/Textures/TemplateCube_Rounded.TemplateCube_Rounded'"
-					}
-				}
-			]
-		},
-		{
 			"SourcePackageName": "/Engine/MapTemplates/T_ScreenDirt02_w",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MapTemplates/T_ScreenDirt02_w.T_ScreenDirt02_w",
@@ -3080,7 +3061,7 @@
 		{
 			"SourcePackageName": "/Engine/MapTemplates/Bokeh_5Sides",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/MapTemplates/Bokeh_5Sides.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MapTemplates/Bokeh_5Sides.Bokeh_5Sides",
@@ -3108,7 +3089,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/MI_Template_BaseGray_03_Metal",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/MI_Template_BaseGray_03_Metal.MI_Template_BaseGray_03_Metal",
@@ -3128,7 +3109,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/MI_Template_BaseGray_02",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/MI_Template_BaseGray_02.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/MI_Template_BaseGray_02.MI_Template_BaseGray_02",
@@ -3148,7 +3129,7 @@
 		{
 			"SourcePackageName": "/Engine/TemplateResources/MI_Template_BaseGray",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/TemplateResources/MI_Template_BaseGray.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/TemplateResources/MI_Template_BaseGray.MI_Template_BaseGray",
@@ -3168,7 +3149,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/SM_SkySphere",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/SM_SkySphere.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/SM_SkySphere.SM_SkySphere",
@@ -3193,7 +3174,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/T_Sky_Stars",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Stars.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/T_Sky_Stars.T_Sky_Stars",
@@ -3222,7 +3203,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/T_Sky_Clouds_M",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M",
@@ -3251,7 +3232,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/T_Sky_Blue",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/T_Sky_Blue.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/T_Sky_Blue.T_Sky_Blue",
@@ -3280,7 +3261,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2",
@@ -3303,7 +3284,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/C_Sky_Zenith_Color",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color",
@@ -3321,7 +3302,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/C_Sky_Horizon_Color",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color",
@@ -3339,7 +3320,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/C_Sky_Cloud_Color",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/C_Sky_Cloud_Color.C_Sky_Cloud_Color",
@@ -3357,7 +3338,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorBlueprintResources/StandardMacros",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorBlueprintResources/StandardMacros.StandardMacros",
@@ -3385,7 +3366,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSky/BP_Sky_Sphere",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere",
@@ -3413,7 +3394,7 @@
 		{
 			"SourcePackageName": "/Game/Maps/Example_Map",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Maps/Example_Map.umap",
-			"CookedPackageTimeStamp": "2015.03.16-03.46.58",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.06",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Maps/Example_Map.Example_Map",
@@ -3429,9 +3410,345 @@
 			]
 		},
 		{
+			"SourcePackageName": "/Game/Character/powerups/speedBP",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/powerups/speedBP.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/powerups/speedBP.speedBP",
+					"PackageName": "/Game/Character/powerups/speedBP",
+					"PackagePath": "/Game/Character/powerups",
+					"GroupNames": "None",
+					"AssetName": "speedBP",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/Engine.Actor'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Game/Character/powerups/speedBP.speedBP_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845072",
+						"IsDataOnly": "False",
+						"SearchGuid": "A244668142F437D86CA3F4B736912056"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/powerups/speed",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/powerups/speed.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/powerups/speed.speed",
+					"PackageName": "/Game/Character/powerups/speed",
+					"PackagePath": "/Game/Character/powerups",
+					"GroupNames": "None",
+					"AssetName": "speed",
+					"AssetClass": "StaticMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "80",
+						"Vertices": "98",
+						"UVChannels": "2",
+						"Materials": "1",
+						"ApproxSize": "2x15x15",
+						"CollisionPrims": "1",
+						"ResourceSize": "8.73"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/powerups/Material_001__colorPS",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/powerups/Material_001__colorPS.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/powerups/Material_001__colorPS.Material_001__colorPS",
+					"PackageName": "/Game/Character/powerups/Material_001__colorPS",
+					"PackagePath": "/Game/Character/powerups",
+					"GroupNames": "None",
+					"AssetName": "Material_001__colorPS",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/powerups/colorPS",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/powerups/colorPS.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/powerups/colorPS.colorPS",
+					"PackageName": "/Game/Character/powerups/colorPS",
+					"PackagePath": "/Game/Character/powerups",
+					"GroupNames": "None",
+					"AssetName": "colorPS",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "1024x1024",
+						"HasAlphaChannel": "False",
+						"ResourceSize": "10.68",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/dinoAnim_PhysicsAsset",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_PhysicsAsset.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/dinoAnim_PhysicsAsset.dinoAnim_PhysicsAsset",
+					"PackageName": "/Game/Character/dinoAnim_PhysicsAsset",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "dinoAnim_PhysicsAsset",
+					"AssetClass": "PhysicsAsset",
+					"TagsAndValues":
+					{
+						"Bodies": "14",
+						"Constraints": "13"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/dinoAnim",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/dinoAnim.dinoAnim",
+					"PackageName": "/Game/Character/dinoAnim",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "dinoAnim",
+					"AssetClass": "SkeletalMesh",
+					"TagsAndValues":
+					{
+						"Triangles": "1590",
+						"Bones": "14",
+						"Skeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/normal4",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/normal4.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/normal4.normal4",
+					"PackageName": "/Game/Character/normal4",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "normal4",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "1024x1024",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "1365.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/color3",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/color3.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/color3.color3",
+					"PackageName": "/Game/Character/color3",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "color3",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "1024x1024",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "1365.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/Material__color2",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/Material__color2.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/Material__color2.Material__color2",
+					"PackageName": "/Game/Character/Material__color2",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "Material__color2",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/dinoAnim_Skeleton",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_Skeleton.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton",
+					"PackageName": "/Game/Character/dinoAnim_Skeleton",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "dinoAnim_Skeleton",
+					"AssetClass": "Skeleton",
+					"TagsAndValues":
+					{
+						"PreviewSkeletalMesh": "/Game/Character/dinoAnim.dinoAnim",
+						"Rig": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/dinoAnim_Anim_idle",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_Anim_idle.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/dinoAnim_Anim_idle.dinoAnim_Anim_idle",
+					"PackageName": "/Game/Character/dinoAnim_Anim_idle",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "dinoAnim_Anim_idle",
+					"AssetClass": "AnimSequence",
+					"TagsAndValues":
+					{
+						"ResourceSize": "19.82",
+						"NumFrames": "142",
+						"AdditiveAnimType": "AAT_None",
+						"RetargetSource": "None",
+						"SequenceLength": "5.916667",
+						"Skeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'",
+						"PreviewSkeletalMesh": "None",
+						"CurveUIDList": ""
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Character/AnimBluDino",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/AnimBluDino.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Character/AnimBluDino.AnimBluDino",
+					"PackageName": "/Game/Character/AnimBluDino",
+					"PackagePath": "/Game/Character",
+					"GroupNames": "None",
+					"AssetName": "AnimBluDino",
+					"AssetClass": "AnimBlueprint",
+					"TagsAndValues":
+					{
+						"TargetSkeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'",
+						"ParentClass": "Class'/Script/Engine.AnimInstance'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "AnimBlueprintGeneratedClass'/Game/Character/AnimBluDino.AnimBluDino_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845080",
+						"IsDataOnly": "False",
+						"SearchGuid": "1A3556DB400D9A7FEC96149FC25F0684"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Blueprints/dino",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/dino.uasset",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Blueprints/dino.dino",
+					"PackageName": "/Game/Blueprints/dino",
+					"PackagePath": "/Game/Blueprints",
+					"GroupNames": "None",
+					"AssetName": "dino",
+					"AssetClass": "Blueprint",
+					"TagsAndValues":
+					{
+						"ParentClass": "Class'/Script/Engine.Character'",
+						"BlueprintType": "BPTYPE_Normal",
+						"ImplementedInterfaces": "",
+						"GeneratedClass": "BlueprintGeneratedClass'/Game/Blueprints/dino.dino_C'",
+						"NumReplicatedProperties": "0",
+						"ParentClassPackage": "/Script/Engine",
+						"BlueprintDescription": "",
+						"ClassFlags": "12845072",
+						"IsDataOnly": "False",
+						"SearchGuid": "1115CCDD41FA970B193533A2F9BEEC3C"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Temp/Autosaves/Game/Maps/UEDPCnivel1",
+			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Saved/Autosaves/Game/Maps/UEDPCnivel1.umap",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/StarterContent/Materials/stool2Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/stool2Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/stool2Mat.stool2Mat",
@@ -3454,7 +3771,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o_Mat.10991709_1590870704460027_9045179116562253848_o_Mat",
@@ -3477,7 +3794,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Props/10991709_1590870704460027_9045179116562253848_o.10991709_1590870704460027_9045179116562253848_o",
@@ -3506,7 +3823,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Brick_Clay_New_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Brick_Clay_New_Mat.T_Brick_Clay_New_Mat",
@@ -3529,7 +3846,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Brick_Clay_New_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Brick_Clay_New_D.T_Brick_Clay_New_D",
@@ -3558,7 +3875,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Brick_Clay_New_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Brick_Clay_New_N.T_Brick_Clay_New_N",
@@ -3587,7 +3904,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Concrete_Tiles_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Concrete_Tiles_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat",
@@ -3610,7 +3927,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Concrete_Tiles_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D",
@@ -3639,7 +3956,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Concrete_Tiles_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N",
@@ -3668,7 +3985,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Copper_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Copper_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Copper_Mat.T_Metal_Copper_Mat",
@@ -3691,7 +4008,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Copper_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Copper_D.T_Metal_Copper_D",
@@ -3720,7 +4037,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Gold_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Gold_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Gold_Mat.T_Metal_Gold_Mat",
@@ -3743,7 +4060,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Gold_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Gold_D.T_Metal_Gold_D",
@@ -3772,7 +4089,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Gold_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N",
@@ -3801,7 +4118,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Steel_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Steel_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Steel_Mat.T_Metal_Steel_Mat",
@@ -3824,7 +4141,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Steel_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Steel_D.T_Metal_Steel_D",
@@ -3853,7 +4170,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Metal_Steel_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Metal_Steel_N.T_Metal_Steel_N",
@@ -3880,240 +4197,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Character/dinoAnim_PhysicsAsset",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_PhysicsAsset.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/dinoAnim_PhysicsAsset.dinoAnim_PhysicsAsset",
-					"PackageName": "/Game/Character/dinoAnim_PhysicsAsset",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "dinoAnim_PhysicsAsset",
-					"AssetClass": "PhysicsAsset",
-					"TagsAndValues":
-					{
-						"Bodies": "14",
-						"Constraints": "13"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/dinoAnim",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/dinoAnim.dinoAnim",
-					"PackageName": "/Game/Character/dinoAnim",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "dinoAnim",
-					"AssetClass": "SkeletalMesh",
-					"TagsAndValues":
-					{
-						"Triangles": "1590",
-						"Bones": "14",
-						"Skeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/normalScale",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/normalScale.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/normalScale.normalScale",
-					"PackageName": "/Game/Character/normalScale",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "normalScale",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "1024x1024",
-						"HasAlphaChannel": "False",
-						"ResourceSize": "10.68",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/color2",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/color2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/color2.color2",
-					"PackageName": "/Game/Character/color2",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "color2",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "1024x1024",
-						"HasAlphaChannel": "False",
-						"ResourceSize": "682.68",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/Material__color2",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/Material__color2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/Material__color2.Material__color2",
-					"PackageName": "/Game/Character/Material__color2",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "Material__color2",
-					"AssetClass": "Material",
-					"TagsAndValues":
-					{
-						"ResourceSize": "0.89",
-						"MaterialDomain": "MD_Surface",
-						"BlendMode": "BLEND_Opaque",
-						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
-						"ShadingModel": "MSM_DefaultLit"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/dinoAnim_Skeleton",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_Skeleton.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton",
-					"PackageName": "/Game/Character/dinoAnim_Skeleton",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "dinoAnim_Skeleton",
-					"AssetClass": "Skeleton",
-					"TagsAndValues":
-					{
-						"PreviewSkeletalMesh": "/Game/Character/dinoAnim.dinoAnim",
-						"Rig": ""
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/dinoAnim_Anim_idle",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/dinoAnim_Anim_idle.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/dinoAnim_Anim_idle.dinoAnim_Anim_idle",
-					"PackageName": "/Game/Character/dinoAnim_Anim_idle",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "dinoAnim_Anim_idle",
-					"AssetClass": "AnimSequence",
-					"TagsAndValues":
-					{
-						"ResourceSize": "19.82",
-						"NumFrames": "142",
-						"AdditiveAnimType": "AAT_None",
-						"RetargetSource": "None",
-						"SequenceLength": "5.916667",
-						"Skeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'",
-						"PreviewSkeletalMesh": "None",
-						"CurveUIDList": ""
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Character/AnimBluDino",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/AnimBluDino.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Character/AnimBluDino.AnimBluDino",
-					"PackageName": "/Game/Character/AnimBluDino",
-					"PackagePath": "/Game/Character",
-					"GroupNames": "None",
-					"AssetName": "AnimBluDino",
-					"AssetClass": "AnimBlueprint",
-					"TagsAndValues":
-					{
-						"TargetSkeleton": "Skeleton'/Game/Character/dinoAnim_Skeleton.dinoAnim_Skeleton'",
-						"ParentClass": "Class'/Script/Engine.AnimInstance'",
-						"BlueprintType": "BPTYPE_Normal",
-						"ImplementedInterfaces": "",
-						"GeneratedClass": "AnimBlueprintGeneratedClass'/Game/Character/AnimBluDino.AnimBluDino_C'",
-						"NumReplicatedProperties": "0",
-						"ParentClassPackage": "/Script/Engine",
-						"BlueprintDescription": "",
-						"ClassFlags": "12845080",
-						"IsDataOnly": "False",
-						"SearchGuid": "475CCE0E461FBBE25FC11EBA671DFB8A"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Blueprints/dino",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Blueprints/dino.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Blueprints/dino.dino",
-					"PackageName": "/Game/Blueprints/dino",
-					"PackagePath": "/Game/Blueprints",
-					"GroupNames": "None",
-					"AssetName": "dino",
-					"AssetClass": "Blueprint",
-					"TagsAndValues":
-					{
-						"ParentClass": "Class'/Script/Engine.Character'",
-						"BlueprintType": "BPTYPE_Normal",
-						"ImplementedInterfaces": "",
-						"GeneratedClass": "BlueprintGeneratedClass'/Game/Blueprints/dino.dino_C'",
-						"NumReplicatedProperties": "0",
-						"ParentClassPackage": "/Script/Engine",
-						"BlueprintDescription": "",
-						"ClassFlags": "12845072",
-						"IsDataOnly": "True",
-						"SearchGuid": "D6F21C984886704C7B5A49A82E32A467"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Temp/Autosaves/Game/Maps/UEDPCnivel1",
-			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Saved/Autosaves/Game/Maps/UEDPCnivel1.umap",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Oak_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat",
@@ -4136,7 +4222,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Oak_D",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.12",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D",
@@ -4165,7 +4251,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Oak_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N",
@@ -4194,7 +4280,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/10974335_1590870707793360_2338942496958066588_o_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/10974335_1590870707793360_2338942496958066588_o_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/10974335_1590870707793360_2338942496958066588_o_Mat.10974335_1590870707793360_2338942496958066588_o_Mat",
@@ -4217,7 +4303,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/10974335_1590870707793360_2338942496958066588_o",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/10974335_1590870707793360_2338942496958066588_o.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/10974335_1590870707793360_2338942496958066588_o.10974335_1590870707793360_2338942496958066588_o",
@@ -4246,7 +4332,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/10991709_1590870704460027_9045179116562253848_o_Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/10991709_1590870704460027_9045179116562253848_o_Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/10991709_1590870704460027_9045179116562253848_o_Mat.10991709_1590870704460027_9045179116562253848_o_Mat",
@@ -4269,7 +4355,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/10991709_1590870704460027_9045179116562253848_o",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/10991709_1590870704460027_9045179116562253848_o.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/10991709_1590870704460027_9045179116562253848_o.10991709_1590870704460027_9045179116562253848_o",
@@ -4298,7 +4384,7 @@
 		{
 			"SourcePackageName": "/Game/Character/grande2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Character/grande2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Character/grande2.grande2",
@@ -4323,7 +4409,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/AVION",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/AVION.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/AVION.AVION",
@@ -4348,7 +4434,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/AusterMat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/AusterMat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/AusterMat.AusterMat",
@@ -4371,7 +4457,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/BANCO",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/BANCO.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/BANCO.BANCO",
@@ -4396,7 +4482,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/BED",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/BED.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/BED.BED",
@@ -4421,7 +4507,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube3Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed__1_Cube3Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube3Mat.Bed__1_Cube3Mat",
@@ -4444,7 +4530,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_12Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed__1_Cube_12Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_12Mat.Bed__1_Cube_12Mat",
@@ -4467,7 +4553,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_22Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed__1_Cube_22Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_22Mat.Bed__1_Cube_22Mat",
@@ -4490,7 +4576,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_32Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed__1_Cube_32Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed__1_Cube_32Mat.Bed__1_Cube_32Mat",
@@ -4513,7 +4599,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube2Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed___Cube2Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube2Mat.Bed___Cube2Mat",
@@ -4536,7 +4622,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_11Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed___Cube_11Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_11Mat.Bed___Cube_11Mat",
@@ -4559,7 +4645,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_21Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed___Cube_21Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_21Mat.Bed___Cube_21Mat",
@@ -4582,7 +4668,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_3Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed___Cube_3Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed___Cube_3Mat.Bed___Cube_3Mat",
@@ -4605,7 +4691,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube1Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube1Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube1Mat.Bed_lath_Cube1Mat",
@@ -4628,7 +4714,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_1Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_1Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_1Mat.Bed_lath_Cube_1Mat",
@@ -4651,7 +4737,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_23Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_23Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_23Mat.Bed_lath_Cube_23Mat",
@@ -4674,7 +4760,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_31Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_31Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_31Mat.Bed_lath_Cube_31Mat",
@@ -4697,7 +4783,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_4Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_4Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_4Mat.Bed_lath_Cube_4Mat",
@@ -4720,7 +4806,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_5Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_5Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_5Mat.Bed_lath_Cube_5Mat",
@@ -4743,7 +4829,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_6Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_6Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_6Mat.Bed_lath_Cube_6Mat",
@@ -4766,7 +4852,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_7Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_lath_Cube_7Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_lath_Cube_7Mat.Bed_lath_Cube_7Mat",
@@ -4789,7 +4875,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_mattressMat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_mattressMat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_mattressMat.Bed_mattressMat",
@@ -4812,7 +4898,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_Side_Cube_2Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_Side_Cube_2Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.00",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_Side_Cube_2Mat.Bed_Side_Cube_2Mat",
@@ -4835,7 +4921,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Materials_bed/Bed_Side_CubeMat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Materials_bed/Bed_Side_CubeMat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Materials_bed/Bed_Side_CubeMat.Bed_Side_CubeMat",
@@ -4858,7 +4944,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/LEGO_DELGAD0",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/LEGO_DELGAD0.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/LEGO_DELGAD0.LEGO_DELGAD0",
@@ -4883,7 +4969,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Box124Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Box124Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Box124Mat.Box124Mat",
@@ -4906,7 +4992,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/LEGO_GORDO",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/LEGO_GORDO.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/LEGO_GORDO.LEGO_GORDO",
@@ -4931,7 +5017,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Box117Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Box117Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Box117Mat.Box117Mat",
@@ -4954,7 +5040,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/LEGO_VUELTA",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/LEGO_VUELTA.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/LEGO_VUELTA.LEGO_VUELTA",
@@ -4979,7 +5065,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/Box108Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/Box108Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/Box108Mat.Box108Mat",
@@ -5002,7 +5088,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/MESA",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/MESA.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/MESA.MESA",
@@ -5027,7 +5113,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/deskWornMat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/deskWornMat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/deskWornMat.deskWornMat",
@@ -5050,7 +5136,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/props/PELOTA",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Meshes/props/PELOTA.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/props/PELOTA.PELOTA",
@@ -5075,7 +5161,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/pSphere1Mat",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/pSphere1Mat.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/pSphere1Mat.pSphere1Mat",
@@ -5098,7 +5184,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Props/SM_Door",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Props/SM_Door.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Props/SM_Door.SM_Door",
@@ -5123,7 +5209,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/M_Glass",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/M_Glass.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/M_Glass.M_Glass",
@@ -5146,7 +5232,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Props/Materials/M_Door",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Props/Materials/M_Door.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Props/Materials/M_Door.M_Door",
@@ -5169,7 +5255,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Door_M",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Door_M.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Door_M.T_Door_M",
@@ -5198,7 +5284,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Textures/T_Door_N",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Textures/T_Door_N.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Textures/T_Door_N.T_Door_N",
@@ -5227,7 +5313,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/mis_obj_shooting01_dif_SD",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/mis_obj_shooting01_dif_SD.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/mis_obj_shooting01_dif_SD.mis_obj_shooting01_dif_SD",
@@ -5256,7 +5342,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/mis_obj_shooting02_dif_SD",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/mis_obj_shooting02_dif_SD.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/mis_obj_shooting02_dif_SD.mis_obj_shooting02_dif_SD",
@@ -5285,7 +5371,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/mis_obj_shooting_SD",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/Textures/mis_obj_shooting_SD.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/mis_obj_shooting_SD.mis_obj_shooting_SD",
@@ -5310,7 +5396,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/mat1",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/mat1.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/mat1.mat1",
@@ -5333,7 +5419,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/mat2",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/mat2.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/mat2.mat2",
@@ -5356,7 +5442,7 @@
 		{
 			"SourcePackageName": "/Game/StarterContent/Materials/mat3",
 			"CookedPackageName": "C:/Users/Alex/Box Sync/nivel1Juego/Nivel1/Nivel1/Saved/Cooked/WindowsNoEditor/Nivel1/Content/StarterContent/Materials/mat3.uasset",
-			"CookedPackageTimeStamp": "2015.03.16-03.47.01",
+			"CookedPackageTimeStamp": "2015.03.19-03.07.13",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/StarterContent/Materials/mat3.mat3",
