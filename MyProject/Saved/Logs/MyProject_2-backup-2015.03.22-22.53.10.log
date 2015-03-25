@@ -1,0 +1,479 @@
+﻿Log file open, 02/28/15 20:56:56
+LogInit:Display: Running engine for game: MyProject
+LogInit: Version: 4.6.1-2386410+++depot+UE4-Releases+4.6
+LogInit: API Version: 2369412
+LogInit: Compiled (64-bit): Dec 11 2014 21:31:39
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.6
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.6/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.03.01-02.56.56:024][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2015.03.01-02.56.56:085][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.01-02.56.56:155][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.01-02.56.56:171][  0]LogInit: Object subsystem initialized
+[2015.03.01-02.56.56:175][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.01-02.56.56:175][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.01-02.56.56:175][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.01-02.56.56:175][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.01-02.56.56:176][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.03.01-02.56.56:176][  0]LogInit: Selected Device Profile: [Windows]
+[2015.03.01-02.56.56:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.03.01-02.56.56:197][  0]LogInit: Computer: MIEL
+[2015.03.01-02.56.56:197][  0]LogInit: User: MieL
+[2015.03.01-02.56.56:197][  0]LogInit: CPU Page size=4096, Cores=2
+[2015.03.01-02.56.56:198][  0]LogInit: High frequency timer resolution =1.656320 MHz
+[2015.03.01-02.56.56:198][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx) Virtual=131072.0GB
+[2015.03.01-02.56.56:198][  0]LogMemory: Platform Memory Stats for Windows
+[2015.03.01-02.56.56:198][  0]LogMemory: Process Physical Memory: 47.97 MB used, 47.97 MB peak
+[2015.03.01-02.56.56:198][  0]LogMemory: Process Virtual Memory: 23.93 MB used, 23.94 MB peak
+[2015.03.01-02.56.56:198][  0]LogMemory: Physical Memory: 4800.36 MB used, 6024.27 MB total
+[2015.03.01-02.56.56:198][  0]LogMemory: Virtual Memory: 268.94 MB used, 134217728.00 MB total
+[2015.03.01-02.56.56:239][  0]LogD3D11RHI: Found D3D11 adapter 0: Intel(R) HD Graphics Family (Feature Level 11_0)
+[2015.03.01-02.56.56:239][  0]LogD3D11RHI: Adapter has 32MB of dedicated video memory, 0MB of dedicated system memory, and 1760MB of shared system memory, 1 output[s]
+[2015.03.01-02.56.56:243][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.03.01-02.56.56:243][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.03.01-02.56.56:243][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.03.01-02.56.56:253][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2015.03.01-02.56.56:267][  0]LogD3D11RHI: Async texture creation enabled
+[2015.03.01-02.56.56:388][  0]LogTextLocalizationManager: The requested culture ('es_MX') has no localization data; parent culture's ('es') localization data will be used.
+[2015.03.01-02.56.56:635][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.03.01-02.57.08:199][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.01-02.57.09:568][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.01-02.57.09:785][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.03.01-02.57.11:705][  0]LogDerivedDataCache: Loaded boot cache 1.92s 439MB C:/Users/Miryam/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc.
+[2015.03.01-02.57.11:705][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Miryam/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc
+[2015.03.01-02.57.11:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.03.01-02.57.11:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.03.01-02.57.11:965][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2015.03.01-02.57.11:980][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Miryam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.03.01-02.57.41:332][  0]LogCollisionProfile:Warning: Profile (UI) - Custom Channel Name = 'Weapon' hasn't been found
+[2015.03.01-02.57.41:808][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.03.01-02.57.41:808][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.03.01-02.57.43:265][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.01-02.57.44:052][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.03.01-02.58.17:913][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.03.01-02.58.18:372][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/Miryam/Documents/Unreal Projects/MyProject/Binaries/Win64. Error: 0
+[2015.03.01-02.58.18:822][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.03.01-02.58.18:823][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.03.01-02.58.18:846][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.03.01-02.58.19:320][  0]LogObj: 23754 objects as part of root set at end of initial load.
+[2015.03.01-02.58.19:320][  0]LogUObjectAllocator: 5168128 out of 0 bytes used by permanent object pool.
+[2015.03.01-02.58.19:447][  0]LogEngine: Initializing Engine...
+[2015.03.01-02.58.21:342][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.03.01-02.58.21:556][  0]LogInit: FAudioDevice initialized.
+[2015.03.01-02.58.23:028][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.03.01-02.58.43:848][  0]LogDerivedDataCache: Saved boot cache 20.66s 439MB C:/Users/Miryam/AppData/Local/UnrealEngine/4.6/DerivedDataCache/Boot.ddc.
+[2015.03.01-02.58.43:914][  0]LogInit: Texture streaming: Enabled
+[2015.03.01-02.58.44:027][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.03.01-02.58.44:027][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.6.1-2386410+++depot+UE4-Releases+4.6
+[2015.03.01-02.58.44:030][  0]LogAnalytics: SetUserId cc2da9029b1435b39fd32981c4d04f44
+[2015.03.01-02.58.44:030][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.03.01-02.58.44:087][  0]LogInit: Transaction tracking system initialized
+[2015.03.01-02.58.54:906][  0]BlueprintLog: New page: Cargar el editor
+[2015.03.01-02.58.56:285][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2015.03.01-02.58.56:382][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.03.01-02.59.28:027][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.01-02.59.29:298][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.03.01-02.59.37:825][  0]LogConsoleResponse:Display: 
+[2015.03.01-02.59.40:350][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.03.01-02.59.48:702][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.03.01-02.59.48:815][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/Example_Map.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2015.03.01-02.59.48:929][  0]LightingResults: New page: Diseñar la iluminación
+[2015.03.01-02.59.49:341][  0]MapCheck: New page: Revisión del mapa
+[2015.03.01-02.59.49:342][  0]LightingResults: New page: Diseñar la iluminación
+[2015.03.01-02.59.53:197][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000068159BB600
+[2015.03.01-02.59.56:818][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.01-02.59.56:864][  0]LogAIModule: Creating AISystem for world Example_Map
+[2015.03.01-02.59.57:212][  0]Cmd: MAP CHECKDEP
+[2015.03.01-02.59.57:307][  0]MapCheck: New page: Example_Map - 28/02/2015 14:59:57
+[2015.03.01-02.59.57:883][  0]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 669.417ms to complete.
+[2015.03.01-02.59.57:883][  0]LogFileHelpers: Loading map 'Example_Map' took 9.097
+[2015.03.01-03.00.09:690][  0]LogCollectionManager: Loaded 0 collections in 0.004349 seconds
+[2015.03.01-03.00.13:132][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.03.01-03.00.13:981][  0]LogUObjectGlobals:Warning: Error al encontrar el objeto 'Class Ninguno.'
+[2015.03.01-03.00.14:636][  0]LogLoad: Full Startup: 202.18 seconds (BP compile: 0.98 seconds)
+[2015.03.01-03.00.15:633][  0]LogRenderer:Warning: Reallocating scene render targets to support 672x592.
+[2015.03.01-03.00.19:338][  1]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Props'
+[2015.03.01-03.00.24:603][  6]LogAssetRegistry: Asset discovery search completed in 88.3305 seconds
+[2015.03.01-03.00.28:902][ 69]Cmd: MAP LOAD FILE="../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/NivelCasa.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2015.03.01-03.00.28:970][ 69]LightingResults: New page: Diseñar la iluminación
+[2015.03.01-03.00.29:064][ 69]LoadErrors: New page: Cargando mapa: NivelCasa.umap
+[2015.03.01-03.00.29:150][ 69]MapCheck: New page: Revisión del mapa
+[2015.03.01-03.00.29:150][ 69]LightingResults: New page: Diseñar la iluminación
+[2015.03.01-03.00.29:233][ 69]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000680A542DE0
+[2015.03.01-03.00.42:867][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.03.01-03.00.42:867][ 69]LogAIModule: Creating AISystem for world NivelCasa
+[2015.03.01-03.00.42:954][ 69]Cmd: MAP CHECKDEP
+[2015.03.01-03.00.42:954][ 69]MapCheck: New page: NivelCasa - 28/02/2015 15:00:42
+[2015.03.01-03.00.43:419][ 69]MapCheck: Información Map check complete: 0 Error(s), 0 Warning(s), took 464.899ms to complete.
+[2015.03.01-03.00.43:419][ 69]LogFileHelpers: Loading map 'NivelCasa' took 14.577
+[2015.03.01-03.01.08:429][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.01.09:297][191]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.01.10:827][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.01.10:843][203]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.01.21:916][567]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2015.03.01-03.01.43:309][746]LogRenderer:Warning: Reallocating scene render targets to support 944x592.
+[2015.03.01-03.01.45:096][781]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.02.05:910][332]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.02.05:948][332]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.02.19:564][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.02.19:589][712]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.02.28:881][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.02.28:899][ 53]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.02.29:914][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.02.29:938][ 90]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.03.37:867][346]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.03.48:237][657]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.04.20:002][715]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.04.21:785][759]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.10.30:608][381]LogSavePackage: Save=1602.184326ms
+[2015.03.01-03.10.30:608][381]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasa_Auto188AEE708494BF69603AF5C90C97D0C63.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Maps/NivelCasa_Auto1.umap'
+[2015.03.01-03.10.30:628][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NivelCasa' took 1.881
+[2015.03.01-03.10.30:628][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.881
+[2015.03.01-03.10.30:649][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Assets/PowerUp] ([1] browsable assets)...
+[2015.03.01-03.10.30:649][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Assets/PowerUp]
+[2015.03.01-03.10.30:774][381]LogSavePackage: Save=54.851719ms
+[2015.03.01-03.10.30:774][381]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/PowerUp_Auto1019766BC47AF89252AE8D3941BCFAEE5.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Blueprints/Assets/PowerUp_Auto1.uasset'
+[2015.03.01-03.10.30:796][381]LogFileHelpers: Auto-saving content packages took 0.168
+[2015.03.01-03.16.25:055][154]BlueprintLog: New page: Compilar PowerUp
+[2015.03.01-03.16.25:224][154]BlueprintEditorCompileResults: Información [1172.77] Compile of PowerUp successful! [in 136 ms]
+[2015.03.01-03.17.06:077][268]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2015.03.01-03.17.11:393][404]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pillar_50x510)
+[2015.03.01-03.17.11:413][404]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.17.27:191][862]LogRenderer:Warning: Reallocating scene render targets to support 944x680.
+[2015.03.01-03.17.44:124][266]BlueprintLog: New page: Volver a compilar automáticamente la reproducción en el editor (PIE) anterior
+[2015.03.01-03.17.44:130][266]LogPlayLevel: [PIE] Compiling Tutorial_BP_MacroLib before PIE...
+[2015.03.01-03.17.44:262][266]LogPlayLevel: [PIE] Compiling NivelCasa before PIE...
+[2015.03.01-03.17.44:408][266]LogPlayLevel: PIE:  Blueprint regeneration took 284 ms (2 blueprints)
+[2015.03.01-03.17.44:409][266]PIE: New page: Sesión PIE (reproducción en el editor): NivelCasa (28/02/2015 15:17:44)
+[2015.03.01-03.17.44:444][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035287s)
+[2015.03.01-03.17.44:445][266]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2015.03.01-03.17.44:445][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NivelCasa.NivelCasa to /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa (0.036433s)
+[2015.03.01-03.17.44:777][266]LogLinker:Warning: Asset '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Blueprints/MyProjectile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.03.01-03.17.45:221][266]LogAnimation:Warning: UAnimMontage::PostLoad: The actual sequence length for montage FPP_Fire_Montage does not match the length stored in the asset, please resave the montage asset.
+[2015.03.01-03.17.45:308][266]BlueprintLog:Warning: Aviso El Blueprint MyHUD se ha migrado y necesita volver a guardarse para evitar errores de importación
+[2015.03.01-03.17.45:310][266]BlueprintLog:Warning: Aviso El Blueprint MyGame se ha migrado y necesita volver a guardarse para evitar errores de importación
+[2015.03.01-03.17.45:408][266]LogWorld: Game class is 'MyGame_C'
+[2015.03.01-03.17.45:431][266]LogAIModule: Creating AISystem for world NivelCasa
+[2015.03.01-03.17.45:562][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa up for play (max tick rate 0) at 2015.02.28-21.17.45
+[2015.03.01-03.17.45:564][266]LogWorld: Bringing up level for play took: 0.132739
+[2015.03.01-03.17.45:590][266]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_NivelCasa 2.164
+[2015.03.01-03.18.27:417][693]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006804547E20
+[2015.03.01-03.18.39:734][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.18.39:757][178]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.18.41:558][224]LogEditorViewport: Clicking on Actor (LMB): TriggerSphere (TriggerSphere)
+[2015.03.01-03.18.41:574][224]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.19.08:623][930]BlueprintLog: New page: Volver a compilar automáticamente la reproducción en el editor (PIE) anterior
+[2015.03.01-03.19.08:634][930]LogPlayLevel: [PIE] Compiling NivelCasa before PIE...
+[2015.03.01-03.19.08:805][930]LogPlayLevel: PIE:  Blueprint regeneration took 181 ms (1 blueprints)
+[2015.03.01-03.19.08:805][930]PIE: New page: Sesión PIE (reproducción en el editor): NivelCasa (28/02/2015 15:19:08)
+[2015.03.01-03.19.08:833][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026881s)
+[2015.03.01-03.19.08:833][930]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2015.03.01-03.19.08:834][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NivelCasa.NivelCasa to /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa (0.028095s)
+[2015.03.01-03.19.08:876][930]LogWorld: Game class is 'MyGame_C'
+[2015.03.01-03.19.08:877][930]LogAIModule: Creating AISystem for world NivelCasa
+[2015.03.01-03.19.08:885][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa up for play (max tick rate 0) at 2015.02.28-21.19.08
+[2015.03.01-03.19.08:887][930]LogWorld: Bringing up level for play took: 0.009065
+[2015.03.01-03.19.08:889][930]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_NivelCasa -0.536
+[2015.03.01-03.19.29:728][631]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006806CB9760
+[2015.03.01-03.19.41:885][110]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.19.56:918][625]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.19.56:963][625]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.19.57:032][625]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.19.57:062][625]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.01:788][745]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.16:136][264]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/StarterContent/Props'
+[2015.03.01-03.20.19:551][422]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.19:588][422]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.19:637][422]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.19:666][422]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.25:303][693]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.25:341][693]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.51:795][893]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.20.55:334][ 46]BlueprintLog: New page: Compilar PowerUp
+[2015.03.01-03.20.55:482][ 46]BlueprintEditorCompileResults: Información [1443.03] Compile of PowerUp successful! [in 137 ms]
+[2015.03.01-03.21.40:626][741]BlueprintLog: New page: Compilar PowerUp
+[2015.03.01-03.21.40:780][741]BlueprintEditorCompileResults: Información [1488.33] Compile of PowerUp successful! [in 127 ms]
+[2015.03.01-03.21.43:288][764]LogSavePackage: Save=1431.668945ms
+[2015.03.01-03.21.43:288][764]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasa_Auto2E578A22245F3BC6097DE2E96BE3A5586.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Maps/NivelCasa_Auto2.umap'
+[2015.03.01-03.21.43:304][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NivelCasa' took 1.666
+[2015.03.01-03.21.43:304][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.666
+[2015.03.01-03.21.43:320][764]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Assets/PowerUp] ([1] browsable assets)...
+[2015.03.01-03.21.43:357][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Assets/PowerUp.PowerUp]
+[2015.03.01-03.21.43:357][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Assets/PowerUp]
+[2015.03.01-03.21.43:704][764]LogSavePackage: Save=283.142151ms
+[2015.03.01-03.21.43:704][764]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/PowerUp_Auto2BB0BF0D0467806FF6B9946BDD821E5C0.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Blueprints/Assets/PowerUp_Auto2.uasset'
+[2015.03.01-03.21.43:716][764]LogFileHelpers: Auto-saving content packages took 0.411
+[2015.03.01-03.22.06:943][547]BlueprintLog: New page: Volver a compilar automáticamente la reproducción en el editor (PIE) anterior
+[2015.03.01-03.22.06:951][547]LogPlayLevel: [PIE] Compiling NivelCasa before PIE...
+[2015.03.01-03.22.07:107][547]LogPlayLevel: PIE:  Blueprint regeneration took 163 ms (1 blueprints)
+[2015.03.01-03.22.07:107][547]PIE: New page: Sesión PIE (reproducción en el editor): NivelCasa (28/02/2015 15:22:07)
+[2015.03.01-03.22.07:136][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028260s)
+[2015.03.01-03.22.07:137][547]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2015.03.01-03.22.07:137][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NivelCasa.NivelCasa to /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa (0.029451s)
+[2015.03.01-03.22.07:180][547]LogWorld: Game class is 'MyGame_C'
+[2015.03.01-03.22.07:182][547]LogAIModule: Creating AISystem for world NivelCasa
+[2015.03.01-03.22.07:190][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa up for play (max tick rate 0) at 2015.02.28-21.22.07
+[2015.03.01-03.22.07:192][547]LogWorld: Bringing up level for play took: 0.009364
+[2015.03.01-03.22.07:195][547]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_NivelCasa -0.231
+[2015.03.01-03.22.21:894][ 98]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006804338B80
+[2015.03.01-03.22.26:090][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere)
+[2015.03.01-03.22.26:112][329]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.22.26:993][355]Cmd: DELETE
+[2015.03.01-03.22.26:993][355]Cmd: ACTOR DELETE
+[2015.03.01-03.22.26:995][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2015.03.01-03.22.27:078][355]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2015.03.01-03.22.28:726][407]LogEditorViewport: Clicking on Actor (LMB): TriggerSphere (TriggerSphere)
+[2015.03.01-03.22.28:747][407]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.03.01-03.22.29:615][434]Cmd: DELETE
+[2015.03.01-03.22.29:615][434]Cmd: ACTOR DELETE
+[2015.03.01-03.22.29:616][434]LogEditorActor: Deleted Actor: TriggerSphere
+[2015.03.01-03.22.29:704][434]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2015.03.01-03.22.34:917][595]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints/Assets'
+[2015.03.01-03.22.55:855][140]BlueprintLog: New page: Volver a compilar automáticamente la reproducción en el editor (PIE) anterior
+[2015.03.01-03.22.55:864][140]LogPlayLevel: [PIE] Compiling NivelCasa before PIE...
+[2015.03.01-03.22.56:065][140]LogPlayLevel: PIE:  Blueprint regeneration took 210 ms (1 blueprints)
+[2015.03.01-03.22.56:065][140]PIE: New page: Sesión PIE (reproducción en el editor): NivelCasa (28/02/2015 15:22:56)
+[2015.03.01-03.22.56:100][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034124s)
+[2015.03.01-03.22.56:101][140]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2015.03.01-03.22.56:101][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NivelCasa.NivelCasa to /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa (0.035643s)
+[2015.03.01-03.22.56:143][140]LogWorld: Game class is 'MyGame_C'
+[2015.03.01-03.22.56:145][140]LogAIModule: Creating AISystem for world NivelCasa
+[2015.03.01-03.22.56:152][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NivelCasa.NivelCasa up for play (max tick rate 0) at 2015.02.28-21.22.56
+[2015.03.01-03.22.56:154][140]LogWorld: Bringing up level for play took: 0.008890
+[2015.03.01-03.22.56:157][140]PIE: Información Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_NivelCasa 0.731
+[2015.03.01-03.23.20:255][986]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000680867FC40
+[2015.03.01-03.26.38:280][746]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2015.03.01-03.26.38:309][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assets/FocoMagico" FILE="../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Blueprints/Assets/FocoMagico.uasset" SILENT=true
+[2015.03.01-03.26.38:627][746]LogSavePackage: Save=254.505173ms
+[2015.03.01-03.26.38:628][746]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/FocoMagico2CD0A1F44870B4E28C3B98B1FCC33008.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Blueprints/Assets/FocoMagico.uasset'
+[2015.03.01-03.28.42:943][148]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce3)
+[2015.03.01-03.32.23:807][261]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000687206C0E0
+[2015.03.01-03.32.23:811][261]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006870725760
+[2015.03.01-03.32.23:812][261]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000680B13A980
+[2015.03.01-03.32.23:813][261]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000681859A840
+[2015.03.01-03.32.25:852][261]LogSavePackage: Save=1646.571289ms
+[2015.03.01-03.32.25:852][261]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasa_Auto3CA724FEC44A29B8742E5DEA6A1B93BDB.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Maps/NivelCasa_Auto3.umap'
+[2015.03.01-03.32.25:871][261]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NivelCasa' took 2.184
+[2015.03.01-03.32.25:871][261]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.184
+[2015.03.01-03.32.25:892][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Assets/PowerUp] ([1] browsable assets)...
+[2015.03.01-03.32.25:942][261]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Assets/PowerUp.PowerUp]
+[2015.03.01-03.32.25:942][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Assets/PowerUp]
+[2015.03.01-03.32.26:320][261]LogSavePackage: Save=281.050171ms
+[2015.03.01-03.32.26:320][261]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/PowerUp_Auto39A5907C44D0C0C43F724E8964467CAF2.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Blueprints/Assets/PowerUp_Auto3.uasset'
+[2015.03.01-03.32.26:331][261]LogFileHelpers: Auto-saving content packages took 0.459
+[2015.03.01-03.40.22:211][786]BlueprintLog: New page: Compilar PowerUp
+[2015.03.01-03.40.22:406][786]BlueprintEditorCompileResults: Información [2609.95] Compile of PowerUp successful! [in 167 ms]
+[2015.03.01-03.42.46:414][276]LogSavePackage: Save=1483.583496ms
+[2015.03.01-03.42.46:414][276]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasa_Auto4D63592684D0E18B3B724FABA76D3FDBE.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Maps/NivelCasa_Auto4.umap'
+[2015.03.01-03.42.46:435][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NivelCasa' took 1.712
+[2015.03.01-03.42.46:435][276]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.712
+[2015.03.01-03.42.46:460][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Assets/PowerUp] ([1] browsable assets)...
+[2015.03.01-03.42.46:498][276]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Assets/PowerUp.PowerUp]
+[2015.03.01-03.42.46:498][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Assets/PowerUp]
+[2015.03.01-03.42.46:849][276]LogSavePackage: Save=286.013580ms
+[2015.03.01-03.42.46:849][276]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/PowerUp_Auto4823FFFE64694272C9A881EB3F73FB33B.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Blueprints/Assets/PowerUp_Auto4.uasset'
+[2015.03.01-03.42.46:860][276]LogFileHelpers: Auto-saving content packages took 0.425
+[2015.03.01-03.47.34:856][484]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2015.03.01-03.48.00:767][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NivelCasa" FILE="../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/NivelCasa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.01-03.48.00:826][340]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006820A1D120
+[2015.03.01-03.48.02:325][340]LogSavePackage: Save=1417.931274ms
+[2015.03.01-03.48.02:325][340]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasa8994523047892487E77CE18C0A56AB85.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/NivelCasa.umap'
+[2015.03.01-03.48.34:718][113]LogEditorViewport: Clicking on Actor (LMB): PowerUp_C (PowerUp)
+[2015.03.01-03.48.35:840][147]Cmd: DELETE
+[2015.03.01-03.48.35:840][147]Cmd: ACTOR DELETE
+[2015.03.01-03.48.35:843][147]LogEditorActor: Deleted Actor: PowerUp_C
+[2015.03.01-03.48.35:932][147]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2015.03.01-03.48.44:239][327]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_PowerUp_C_1' or package '/Engine/Transient'.
+[2015.03.01-03.48.44:239][327]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_PowerUp_C_0' or package '/Engine/Transient'.
+[2015.03.01-03.48.44:239][327]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_PowerUp_C_180' or package '/Engine/Transient'.
+[2015.03.01-03.48.44:239][327]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_PowerUp_C_179' or package '/Engine/Transient'.
+[2015.03.01-03.48.46:554][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NivelCasa" FILE="../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/NivelCasa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.03.01-03.48.48:133][384]LogSavePackage: Save=1455.390869ms
+[2015.03.01-03.48.48:133][384]LogSavePackage: Moving '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Saved/NivelCasaEB2CF72E4D7FE8BB076B9196B16C3EF0.tmp' to '../../../../../../Users/Miryam/Documents/Unreal Projects/MyProject/Content/Maps/NivelCasa.umap'
+[2015.03.01-03.48.56:041][641]Cmd: CLOSE_SLATE_MAINFRAME
+[2015.03.01-03.48.57:098][642]Cmd: QUIT_EDITOR
+[2015.03.01-03.48.58:854][642]LogExit: Preparing to exit.
+[2015.03.01-03.48.59:839][642]LogExit: Editor shut down
+[2015.03.01-03.48.59:840][642]LogExit: Transaction tracking system shut down
+[2015.03.01-03.48.59:841][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000680899A200
+[2015.03.01-03.48.59:843][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000006808268540
+[2015.03.01-03.48.59:844][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000687967B420
+[2015.03.01-03.48.59:846][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000068084C2980
+[2015.03.01-03.48.59:851][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000687800FB00
+[2015.03.01-03.48.59:852][642]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000680C7944A0
+[2015.03.01-03.48.59:953][642]LogExit: Object subsystem successfully closed.
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (172)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module CrashTracker (171)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module SuperSearch (170)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module SceneOutliner (169)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module EditorWidgets (168)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module CollectionManager (167)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module StatsViewer (166)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module FoliageEdit (165)
+[2015.03.01-03.49.00:128][642]LogModuleManager: Shutting down and abandoning module LandscapeEditor (164)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module MeshPaint (163)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module ActorPickerMode (162)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module GeometryMode (161)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module TextureAlignMode (160)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module BspMode (159)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module PlacementMode (158)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module AutomationWorker (157)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module CharacterAI (156)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (155)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module IntroTutorials (154)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (153)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module HardwareTargeting (152)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (151)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module UndoHistory (150)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (149)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module UserFeedback (148)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module XmlParser (147)
+[2015.03.01-03.49.00:129][642]LogModuleManager: Shutting down and abandoning module Blutility (146)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (145)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (144)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (143)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (142)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (141)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (140)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module InputBindingEditor (139)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (138)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module SettingsEditor (137)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module ProjectLauncher (136)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module SessionFrontend (135)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module ProfilerClient (134)
+[2015.03.01-03.49.00:130][642]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (133)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module DeviceManager (132)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module AutomationController (131)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module AutomationWindow (130)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module Layers (129)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (128)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module DetailCustomizations (127)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module PackagesDialog (126)
+[2015.03.01-03.49.00:131][642]LogModuleManager: Shutting down and abandoning module AssetRegistry (125)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module Persona (124)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.03.01-03.49.00:247][642]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module AIModule (108)
+[2015.03.01-03.49.00:248][642]LogModuleManager: Shutting down and abandoning module ProfilerService (107)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module TaskGraph (106)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module GameplayDebugger (105)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module EpicSurvey (96)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module DesktopPlatform (95)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (94)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module UObjectPlugin (93)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (92)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module SourceControl (91)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (90)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module BlankPlugin (89)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module SlateReflector (88)
+[2015.03.01-03.49.00:256][642]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (87)
+[2015.03.01-03.49.00:257][642]LogModuleManager: Shutting down and abandoning module HotReload (86)
+[2015.03.01-03.49.00:257][642]LogModuleManager: Shutting down and abandoning module MainFrame (85)
+[2015.03.01-03.49.00:257][642]LogModuleManager: Shutting down and abandoning module LevelEditor (84)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module ViewportSnapping (83)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module SmartSnapping (82)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (81)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (80)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module ContentBrowser (79)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module Paper2DEditor (78)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module ScriptPlugin (77)
+[2015.03.01-03.49.00:258][642]LogModuleManager: Shutting down and abandoning module UdpMessaging (76)
+[2015.03.01-03.49.00:359][642]LogModuleManager: Shutting down and abandoning module Paper2D (75)
+[2015.03.01-03.49.00:359][642]LogModuleManager: Shutting down and abandoning module UE4Game (74)
+[2015.03.01-03.49.00:359][642]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (73)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module Media (72)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module WmfMedia (71)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module PropertyEditor (69)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (68)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module FunctionalTesting (67)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (66)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (65)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module MessageLog (64)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module Sequencer (63)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module AssetTools (62)
+[2015.03.01-03.49.00:366][642]LogModuleManager: Shutting down and abandoning module UMGEditor (61)
+[2015.03.01-03.49.00:367][642]LogModuleManager: Shutting down and abandoning module UMG (60)
+[2015.03.01-03.49.00:367][642]LogModuleManager: Shutting down and abandoning module Slate (59)
+[2015.03.01-03.49.00:367][642]LogModuleManager: Shutting down and abandoning module EditorStyle (58)
+[2015.03.01-03.49.00:379][642]LogModuleManager: Shutting down and abandoning module SessionServices (57)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (56)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (55)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module XAudio2 (54)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module Networking (52)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module Core (51)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module KismetCompiler (50)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module PhysXFormats (49)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module MeshUtilities (48)
+[2015.03.01-03.49.00:380][642]LogModuleManager: Shutting down and abandoning module DerivedDataCache (47)
+[2015.03.01-03.49.00:382][642]LogDerivedDataCache: Shutdown
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (46)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (45)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (44)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (43)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (42)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (41)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (40)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (39)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (38)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (37)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (36)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (35)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (34)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Messaging (33)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (32)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (28)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (27)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (26)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (25)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (24)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (23)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (22)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TargetPlatform (21)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module InputCore (20)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Settings (19)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module ImageWrapper (18)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.03.01-03.49.00:382][642]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.03.01-03.49.00:385][642]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.03.01-03.49.00:386][642]LogExit: Exiting.
+[2015.03.01-03.49.00:393][642]Log file closed, 02/28/15 21:49:00
